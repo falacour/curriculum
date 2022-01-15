@@ -46,6 +46,7 @@ Conocimientos:
 - HTML
 - Css
 - PHP
+- GitHub
 
 Framework:
 
