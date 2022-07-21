@@ -14,11 +14,11 @@ Formación académica:
 
 **Estudios Secundarios:** Escuela Provincial de Comercio Nº19 (Eldorado-Mnes , 2011).
 
-- **Titulo secudario obtenido:** Perito Mercantil.
+- **Titulo secundario obtenido:** Perito Mercantil.
 
 **Estudios Terciario:** Instituto IPESMI (Posadas-Misiones , 2013-2019).
 
-- **Titulo teciario obtenido:** Tecnico Analista de Sistemas.
+- **Titulo terciario obtenido:** Técnico Analista de Sistemas.
 
 **Idiomas**: Inglés básico, ingles técnico.
 
@@ -26,7 +26,7 @@ Estudios Complementarios:
 
 - Curso reparador de PC, IPESMI Posadas Mnes.
 - Curso operador de PC, IPESMI Posadas Mnes.
-- Curso de programación ARGENTINA PROGRAMA primera estapa finalizada (2021), actualmente cursando la segunda etapa del curso.
+- Curso de programación ARGENTINA PROGRAMA primera etapa finalizada (2021), actualmente cursando la segunda etapa del curso.
 - Curso de DESARROLLO WEB FULLSTACK CON JAVA Silicon Misiones (Diciembre 2021).
 
 Experiencia Laboral:
@@ -36,7 +36,7 @@ Experiencia Laboral:
 - Empresa Norte Servicios Integrales, sector administrativo. Posadas Misiones (Mayo 2013 – Noviembre 2016).
 - Pasantía Fundación IPESMI, sector de Servicio Técnico. Posadas Misiones (Noviembre 2018 – Mayo 2019).
 - Dirección Nacional De Migraciones, Inspector migratorio en puente San Roque Gonzales de Santa Cruz Posadas Misiones.(Noviembre 2019 – Noviembre 2020).
-- Roble Sistemas, area de desarrollo en cede Posadas Misiones.(Noviembre 2021 - actualidad).
+- Roble Sistemas, área de desarrollo en cede Posadas Misiones.(Noviembre 2021 - actualidad).
 
 Conocimientos:
 
